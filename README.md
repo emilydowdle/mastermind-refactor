@@ -1,4 +1,4 @@
-# mastermind-refactor
+# Mastermind Refactor
 
 I've refactored my first program written at Turing — [Mastermind](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown). It's only been three months and already the original makes me cringe. What will I think of my code in a year, five years, ten years?!
 
@@ -8,7 +8,7 @@ Mastermind is a console-based game. To play, download the repo, and type `ruby m
 
 ### Lessons Learned
 
-Open `mastermind_original.rb` to view the horribly-designed, one-big-loop of a program that I originally designed. 
+Open `mastermind_original.rb` to view the horribly-designed, one-big-loop of a program that I originally wrote. 
 
 ### Still Growing
 
